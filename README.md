@@ -14,8 +14,10 @@
 ![](https://visitcount.itsvg.in/api?id=realamirbj&label=Profile%20Views&pretty=true)
 
 <details>
-   <summary>🌐 Socials</summary>
-   <img  src="https://img.shields.io/badge/Telegram-svg?logo=Telegram&logoColor=white&color=blue)](https://t.me/amirbj" />
+  <summary>🌐 Socials</summary>
+  <a href="https://t.me/amirbj">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram" />
+  </a>
 </details>
 
 <details>
