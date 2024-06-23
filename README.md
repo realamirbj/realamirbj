@@ -6,7 +6,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=realamirbj&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=realamirbj&theme=midnight-purple&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realamirbj&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/realamirbj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realamirbj&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/realamirbj)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=realamirbj&theme=radical&no-frame=false&no-bg=false&margin-w=4)
